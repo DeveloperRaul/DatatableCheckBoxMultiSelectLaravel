@@ -7,7 +7,7 @@
             <pre id="view-rows"></pre>
             <p><b>Datos del Formulario en el Server</b></p>
             <pre id="view-form"></pre>
-            <p><button class="btn btn-danger">Ver Seleccionados</button><br/></p>
+            <p><button class="btn btn-success">Ver Seleccionados</button><br/></p>
             <!--Se Incluye La Vista Parcial De La Tabla-->
             @include('productos.partials.table')
     </form>
